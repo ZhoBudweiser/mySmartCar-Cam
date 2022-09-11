@@ -63,8 +63,8 @@
 │          
 └─MCU files
         bpnn_config.h：神经网络参数配置
-        bpnn_fit.c
-        bpnn_fit.h：神经网络函数
+        bpnn_fit.c：神经网络函数
+        bpnn_fit.h：神经网络函数头文件
         display.c：显示屏函数
         display.h：显示屏函数头文件
         ImgProcess.c：图像处理函数
